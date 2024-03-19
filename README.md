@@ -36,6 +36,10 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Docker](https://img.shields.io/badge/-docker-%23007ACC?style=flat-square&logo=docker&labelColor=000000)
 ![Linux](https://img.shields.io/badge/-Linux-%23F7B93E?style=flat-square&logo=linux&logoColor=0000FF)
+![MySQL](https://img.shields.io/badge/-MySQL-007ACC?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%2300C7B7?style=flat-square&logo=mongodb&logoColor=ffffff)
+
+
 
 
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
