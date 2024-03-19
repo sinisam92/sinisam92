@@ -18,6 +18,7 @@
 ![Node](https://img.shields.io/badge/-Node-%231572B6?style=flat-square&logo=nodedotjs)
 ![PHP](https://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=php&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
@@ -36,7 +37,6 @@
 
 
 
-![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
