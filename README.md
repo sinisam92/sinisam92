@@ -1,5 +1,9 @@
-### Hi there 👋
-
+<p align="center">
+  <strong>Wellcome to my profile</strong>
+</p>
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVtdHQ2ZmR3eWdzOXFieG00Zmk2NDE2Z21heXprdmh5NmdsZWp3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XD9o33QG9BoMis7iM4/giphy.gif" alt="animated" />
+</p>
 <!--
 **sinisam92/sinisam92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
