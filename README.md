@@ -30,6 +30,12 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23000000?style=flat-square&logo=bootstrap)
 
 
+![WordPress](https://img.shields.io/badge/-WordPress-%2300C7B7?style=flat-square&logo=wordpress&logoColor=0000FF)
+![Shopify](https://img.shields.io/badge/-Shopify-%2300C7B7?style=flat-square&logo=shopify&color=006400)
+
+
+
+
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
